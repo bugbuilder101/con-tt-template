@@ -22,3 +22,4 @@ module lfsr (
 			lfsr_p <= lfsr_n;
 	initial _sv2v_0 = 0;
 endmodule
+
